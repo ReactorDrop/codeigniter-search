@@ -22,7 +22,7 @@ class Search_driver extends CI_Driver_Library
 
   public function group_by()
   {
-    
+
   }
 
   public function query()
